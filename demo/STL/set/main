@@ -1,0 +1,8 @@
+insert(value); //插入元素
+erase(value); //删除元素
+erase(list.begin() + m,list.end() - n); //删除元素
+erase(address); //删除元素
+clean(); //清除
+find(value); //查找，返回元素地址，未找到返回end();
+count(value); //查找，返回true/false
+set<int> ::iterator it = _mylist.begin() + n; //set:数据类型  it：迭代器 _mylist:数组

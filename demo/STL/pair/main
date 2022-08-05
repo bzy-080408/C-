@@ -1,0 +1,2 @@
+pair<module,module> a; //构造二元组
+make_pair(a,b)；

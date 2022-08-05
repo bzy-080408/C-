@@ -1,0 +1,3 @@
+list.insert(pair<modle,modle>(a,b)); //插入数据
+list.insert(make_pair(a,b)); //同上
+map<module,module>::iterator it=list.begin();  //迭代器
